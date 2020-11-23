@@ -108,7 +108,9 @@ header img{
 	text-align: right;
 	font-family: 'Roboto', sans-serif;
 	color: #373127;
-	padding: 50px 200px 200px 200px;
+    padding: 50px 200px 200px 200px;
+    background-size: 100%;
+    height: 100vh;
 }
 
 .mobil {
@@ -140,7 +142,9 @@ header img{
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	color: #ffffff;
-	padding: 50px 200px 200px 200px;
+    padding: 50px 200px 200px 200px;
+    background-size: 100%;
+    height: 100vh;
 }
 
 .column {
